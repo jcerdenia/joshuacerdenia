@@ -1,6 +1,6 @@
 ### Hi, I'm Joshua.
 
-I'm a full stack developer at [FireVisor](https://firevisor.com/), an AI company creating self-aware factories.
+I'm a full stack developer with [FireVisor](https://firevisor.com/), an AI company creating self-aware factories.
 
 I made a career change from music composition to software development in 2021 and am learning everything I can get my hands on. My daily work includes JavaScript/TypeScript, Angular, React, Node, NestJS, etc. I'm also fond of Kotlin and Android. 
 
