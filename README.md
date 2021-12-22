@@ -4,7 +4,7 @@ I'm a full stack developer with [FireVisor](https://firevisor.com/), an AI compa
 
 I made a career change from music composition to software development in 2021 and am learning everything I can get my hands on. My daily work includes JavaScript/TypeScript, Angular, React, Node, NestJS, etc. I'm also fond of Kotlin and Android. 
 
-Outside tech, I enjoy all things to do with culture. I blog regulary at [cerdenia.com](https://cerdenia.com).
+Outside tech, I enjoy all things to do with culture. Find me at [cerdenia.com](https://cerdenia.com).
 
 <!--
 **joshuacerdenia/joshuacerdenia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
