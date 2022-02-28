@@ -8,9 +8,6 @@ In the past, I have been based in Singapore, Baltimore, and New York. Currently 
 
 Outside tech, I enjoy all things to do with culture. Find me at [cerdenia.com](https://cerdenia.com).
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=joshuacerdenia&count_private=true&show_icons=true&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuacerdenia&layout=compact)
-
 <!--
 **joshuacerdenia/joshuacerdenia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
