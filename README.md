@@ -1,12 +1,10 @@
 ### Hi, I'm Joshua.
 
-I'm a full stack developer with [FireVisor](https://firevisor.com/), an AI-powered platform creating self-aware factories.
+I'm a full stack developer with [FireVisor](https://firevisor.com/), an AI-powered platform creating self-aware factories. My daily work includes JavaScript/TypeScript, Angular, React, Node, NestJS, etc. I'm also fond of Kotlin and Android.
 
-I made the jump to software development in 2021 with a music background and am learning everything I can get my hands on. My daily work includes JavaScript/TypeScript, Angular, React, Node, NestJS, etc. I'm also fond of Kotlin and Android.
+Outside tech, I enjoy all things to do with music and culture. Find me at [cerdenia.com](https://cerdenia.com).
 
 In the past, I have been based in Singapore, Baltimore, and New York. Currently I'm working remotely out of the Philippines.
-
-Outside tech, I enjoy all things to do with culture. Find me at [cerdenia.com](https://cerdenia.com).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuacerdenia&layout=compact)
 
