@@ -1,6 +1,6 @@
 ### Hi, I'm Joshua.
 
-I'm a software developer working primarily with JavaScript frameworks such as React, Angular, and Node. I'm also interested in Android development with Kotlin. Lately I'm getting more into Python.
+I'm a software developer working primarily with JavaScript frameworks such as React, Angular, and NestJS. I'm also interested in Android development with Kotlin. Lately I'm getting more into Python.
 
 Outside tech, I'm a composer of chamber and orchestral music. Find me at [cerdenia.com](https://cerdenia.com) (music) and [garden.cerdenia.com](https://garden.cerdenia.com) (everything else). 
 
