@@ -2,7 +2,7 @@
 
 I'm a software developer working primarily with JavaScript frameworks such as React, Angular, and Node. I'm also interested in Android development with Kotlin. Lately I'm getting more into Python.
 
-Apart from programming, I'm a composer of chamber and orchestral music. Find me at [cerdenia.com](https://cerdenia.com) (music) and [garden.cerdenia.com](https://garden.cerdenia.com) (everything else). 
+Outside tech, I'm a composer of chamber and orchestral music. Find me at [cerdenia.com](https://cerdenia.com) (music) and [garden.cerdenia.com](https://garden.cerdenia.com) (everything else). 
 
 <!--
 **joshuacerdenia/joshuacerdenia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
