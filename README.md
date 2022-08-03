@@ -1,8 +1,8 @@
 ### Hi, I'm Joshua.
 
-I'm a software developer with [FireVisor](https://firevisor.com/), an AI-powered platform creating self-aware factories. My daily work includes JavaScript/TypeScript, React, Angular, Node, NestJS, etc.
+I'm a software developer working primarily with JavaScript frameworks such as React, Angular, and Node. I'm also interested in Android development with Kotlin. Lately I'm getting more into Python.
 
-Outside tech, I'm a composer and musician. Find me at [cerdenia.com](https://cerdenia.com).
+Apart from programming, I'm a composer of chamber and orchestral music. Find me at [cerdenia.com](https://cerdenia.com) (music) and [garden.cerdenia.com](https://garden.cerdenia.com) (everything else). 
 
 <!--
 **joshuacerdenia/joshuacerdenia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
