@@ -2,7 +2,7 @@
 
 I'm a full-stack developer working primarily with JavaScript and Python frameworks. I also have a side interest in Android development.
 
-Outside tech, I'm a composer of chamber and orchestral music. Find me at [cerdenia.com](https://cerdenia.com) (music) and [j.cerdenia.com](https://garden.cerdenia.com) (personal). 
+I'm also a composer of chamber and orchestral music. Find me at [cerdenia.com](https://cerdenia.com) (music) and [j.cerdenia.com](https://garden.cerdenia.com) (personal). 
 
 <!--
 **joshuacerdenia/joshuacerdenia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
