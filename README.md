@@ -1,8 +1,8 @@
 ### Hi, I'm Joshua.
 
-I'm a software developer working primarily with JavaScript frameworks such as React, Angular, and NestJS. I'm also interested in Android development with Kotlin. Lately I'm getting more into Python.
+I'm a full-stack developer working primarily with JavaScript and Python frameworks. I also have a side interest in Android development.
 
-Outside tech, I'm a composer of chamber and orchestral music. Find me at [cerdenia.com](https://cerdenia.com) (music) and [garden.cerdenia.com](https://garden.cerdenia.com) (everything else). 
+Outside tech, I'm a composer of chamber and orchestral music. Find me at [cerdenia.com](https://cerdenia.com) (music) and [j.cerdenia.com](https://garden.cerdenia.com) (personal). 
 
 <!--
 **joshuacerdenia/joshuacerdenia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
